@@ -1,3 +1,3 @@
-explanation of alx low level programming
-explanation of this project
+<p>Lorem ipsum dolor sit amet. Ex sapiente assumenda quo dolore numquam ex internos assumenda id obcaecati suscipit hic voluptates fugit vel dolores dolor. Qui excepturi consequatur ea excepturi placeat est corporis Quis non ducimus velit ut doloribus iure. </p><p>Sed velit asperiores qui similique possimus in neque distinctio hic quasi corporis aut perferendis velit id quam quia. Ea quia incidunt id atque veritatis ex natus provident est voluptate modi et fugiat galisum aut enim blanditiis 33 quisquam explicabo. Quo natus quod ad quasi laborum et voluptate culpa quo voluptatem galisum sit veritatis tenetur At consequuntur suscipit! </p><p>Eos dolores obcaecati At officia laudantium ab suscipit corporis et suscipit totam est dolor maiores et nostrum ratione. Et voluptatem ipsum ut dolorum odio qui placeat laborum eos reprehenderit voluptas. </p>
+
 
