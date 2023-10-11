@@ -8,7 +8,7 @@ int i;
 for (i = 0; i < 10; i++)
 {
 l = 'a';
-while (letter <= 'z')
+while (l <= 'z')
 {
 _putchar(letter);
 l++;
