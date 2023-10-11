@@ -10,7 +10,7 @@ for (i = 0; i < 10; i++)
 l = 'a';
 while (l <= 'z')
 {
-_putchar(letter);
+_putchar(l);
 l++;
 }
 _putchar('\n');
