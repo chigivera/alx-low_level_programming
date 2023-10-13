@@ -1,18 +1,12 @@
 #include "main.h"
 /**
-* _isdigit - Checks if a character is a digit (0 through 9)
-* @c: The character to check
+* mul - Multiplies two integers
+* @a: The first integer
+* @b: The second integer
 *
-* Return: 1 if the character is a digit, 0 otherwise
+* Return: The result of the multiplication
 */
-int _isdigit(int c)
+int mul(int a, int b)
 {
-if (c >= '0' && c <= '9')
-{
-return (1);
-}
-else
-{
-return (0);
-}
+    return (a * b);
 }
