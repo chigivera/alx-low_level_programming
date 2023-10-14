@@ -21,4 +21,3 @@ printf("negative\n");
 }
 return (0);
 }
-
