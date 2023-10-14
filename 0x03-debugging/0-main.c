@@ -11,10 +11,11 @@ int main(void)
     int i;
 
     i = 0;
-if (i == 0)
-printf("neutral")
-else
 
+    // Print the value of i before calling the function
+    printf("Before calling positive_or_negative: i = %d\n", i);
+
+    // Call the positive_or_negative function
     positive_or_negative(i);
 
     // Print the value of i after calling the function
