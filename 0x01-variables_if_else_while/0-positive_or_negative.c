@@ -3,6 +3,9 @@
 #include <stdio.h>
 /*
 main - positive or negative
+description
+nice good
+powerful
 */
 int main(void)
 {
