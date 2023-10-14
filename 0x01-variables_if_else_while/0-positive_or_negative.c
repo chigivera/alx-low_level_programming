@@ -1,12 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
-main - positive or negative
-description
-nice good
-powerful
-*/
 int main(void)
 {
 int n;
