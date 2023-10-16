@@ -9,13 +9,13 @@
 void puts2(char *str)
 {
     int i = 0;
-    int word = 1; // Flag to track if a word should be printed
+    int word = 1; 
 
     while (str[i] != '\0')
     {
         if (str[i] == ' ')
         {
-            word = !word; // Toggle the flag when a space is encountered
+            word = !word;
         }
         else if (word)
         {
@@ -26,4 +26,3 @@ void puts2(char *str)
 
     _putchar('\n');
 }
-
