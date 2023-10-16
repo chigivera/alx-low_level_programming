@@ -9,19 +9,26 @@
 void puts2(char *str)
 {
     int i = 0;
-    int word = 1; 
-
+    int word = 1;
     while (str[i] != '\0')
     {
         if (str[i] == ' ')
         {
-            word = !word;
+            if (word)
+            {
+                word = 0;
+                _putchar(str[i]);
+            }
+            else
+            {
+                word = 1;
+            }
         }
         else if (word)
         {
             _putchar(str[i]);
         }
-        i += 2;
+        i++;
     }
 
     _putchar('\n');
