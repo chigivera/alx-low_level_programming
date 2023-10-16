@@ -12,7 +12,7 @@ while (str[i] != '\0')
 {
 if (str[i] == ' ')
 {
-i++; // Toggle the flag when a space is encountered
+i++;
 }
 _putchar(str[i]);
 i += 2;
