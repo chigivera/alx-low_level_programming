@@ -12,7 +12,7 @@ while (str[i] != '\0')
 {
 if (str[i] == ' ')
 {
-_putchar(' ')
+_putchar(' ');
 i++;
 }
 _putchar(str[i]);
