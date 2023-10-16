@@ -9,7 +9,8 @@
 void puts2(char *str)
 {
     int i = 0;
-    int word = 1;
+    int word = 0;
+
     while (str[i] != '\0')
     {
         if (str[i] == ' ')
@@ -19,13 +20,10 @@ void puts2(char *str)
                 word = 0;
                 _putchar(str[i]);
             }
-            else
-            {
-                word = 1;
-            }
         }
-        else if (word)
+        else
         {
+            word = 1;
             _putchar(str[i]);
         }
         i++;
