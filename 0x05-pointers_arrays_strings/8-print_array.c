@@ -5,7 +5,7 @@
 * @a: Pointer to the array
 * @n: Number of elements to print
 *
-* Description: This function prints n elements of the integer array `a`, 
+* Description: This function prints n elements of the integer array `a`,
 * separated by a comma and space, and adds a new line at the end.
 */
 void print_array(int *a, int n)
