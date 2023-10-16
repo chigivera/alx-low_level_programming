@@ -9,4 +9,5 @@ int _putchar(char c);
 void rev_string(char *s);
 void _puts(char *str);
 void puts2(char *str);
+void puts_half(char *str);
 #endif /* MAIN_H */
