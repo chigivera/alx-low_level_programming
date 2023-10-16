@@ -11,7 +11,7 @@ int i = 0;
 while (str[i] != '\0')
 {
 _putchar(str[i]);
-i += 2; // Move to the next character in the string
+i += 2;
 }
 _putchar('\n');
 }
