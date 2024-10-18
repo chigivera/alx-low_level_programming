@@ -7,7 +7,11 @@
  *
  * Return: number of bits needed to flip
  */
-unsigned int flip_bits(unsigned long int n, unsigned long int m)
+unsigned int flip_bits
+	(
+	unsigned long int n,
+	unsigned long int m
+	)
 {
 	unsigned long int xor = n ^ m;
 	unsigned int count = 0;
